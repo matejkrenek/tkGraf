@@ -25,7 +25,7 @@ Goal of this application is to provide user interface to load data that will be 
 
 # Tasks
 
-[] load file
+[x] load file
 [] formats (CSV, TXT, data in rows, data in columns)
 [] choose splitter of data in upladed file (with this, program knows how to parse the data)
 [] validationg uploaded file and casting it into lists (only one curve, correct format, ...)
