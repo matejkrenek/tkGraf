@@ -25,20 +25,20 @@ Goal of this application is to provide user interface to load data that will be 
 
 # Tasks
 
-- [ ] load file
-  - [ ] formats (CSV, TXT, data in rows, data in columns)
-  - [ ] choose splitter of data in upladed file (with this, program knows how to parse the data)
-  - [ ] validationg uploaded file and casting it into lists (only one curve, correct format, ...)
-- [ ] adjust parameters of generated chart
-  - [ ] title
-  - [ ] legend
-  - [ ] on/off grid
-  - [ ] x and y axis description
-- [ ] adjust parameters of curve in generated chart
-  - [ ] style of curve and its color
-  - [ ] style of marker and its color
-- [ ] drawing chart
-  - [ ] in the same window
-  - [ ] redraw on new data
-- [ ] quit application
-- [ ] errors in alert windows
+- [x] load file
+  - [x] formats (CSV, TXT, data in rows, data in columns)
+  - [x] choose splitter of data in upladed file (with this, program knows how to parse the data)
+  - [x] validationg uploaded file and casting it into lists (only one curve, correct format, ...)
+- [x] adjust parameters of generated chart
+  - [x] title
+  - [x] legend
+  - [x] on/off grid
+  - [x] x and y axis description
+- [x] adjust parameters of curve in generated chart
+  - [x] style of curve and its color
+  - [x] style of marker and its color
+- [x] drawing chart
+  - [x] in the same window
+  - [x] redraw on new data
+- [x] quit application
+- [x] errors in alert windows
